@@ -1,0 +1,16 @@
+body {
+  background-color: whitesmoke;
+}
+#info {
+  float: left;
+  position: fixed;
+  margin-left: 0;
+  margin-top: 0;
+  height: 100%;
+  width: 600px;
+  border-right: double;
+}
+#result {
+  margin-left: 610px;
+  margin-right: 100px;
+}
